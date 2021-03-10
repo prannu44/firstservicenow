@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="My_Table" max_length="40" name="x_594684_myapp_my_table" sizeclass="2" type="collection">
+        <element label="Cost" max_length="15" name="cost" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Mfd" max_length="40" name="mfd" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
