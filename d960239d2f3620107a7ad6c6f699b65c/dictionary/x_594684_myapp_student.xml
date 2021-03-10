@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="MyTable" max_length="40" name="x_594684_myapp_student" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="age" max_length="40" name="age" type="integer"/>
+        <element label="name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
